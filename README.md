@@ -1,5 +1,5 @@
 
-<html>
+
     <style>
         *{padding: 0;margin: 0;}
         body{
@@ -37,4 +37,4 @@
             
         </main>
     </body>
-</html>
+
