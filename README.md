@@ -13,9 +13,15 @@
 </p>
 <h2 >Tecnologias</h2>
 <p>
-    <ul>
-        <ol><img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png" width="20" height="20" /><h3>React Native</h3></ol>
-    </ul>
+    <table>
+        <tr>
+            <td>
+                <img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png" width="20" height="20" />
+            </td>
+            <td><h3>React Native</h3></td>
+        
+</tr>
+</table>
     
 </p>
 </div>
@@ -23,3 +29,5 @@
 </main>
 </body>
 </html>
+       
+    
