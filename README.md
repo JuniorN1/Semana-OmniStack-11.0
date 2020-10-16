@@ -13,15 +13,17 @@
 </p>
 <h2 >Tecnologias</h2>
 <p>
-    <table>
+    <table border="0">
         <tr>
             <td>
-                <img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png" width="20" height="20" />
+                <img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png" width="25" height="25" />
             </td>
-            <td><h3>React Native</h3></td>
+            <td>
+                <h5 style="margin-top: 10;">React Native</h5>
+            </td>
         
-</tr>
-</table>
+  </tr>
+    </table>
     
 </p>
 </div>
