@@ -7,7 +7,7 @@
 <h1>Semana OmniStack 11.0</h1>
 <div class="about">
 <h2>Sobre</h2>
-<span class="border">dsfdsfdf</span>
+<span class="border border-primary">s</span
 </div>
 </div>
 </main>
