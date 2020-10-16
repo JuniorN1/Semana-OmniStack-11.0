@@ -1,3 +1,3 @@
 
-                    <h2>Sobre</h2>
+                    <h1>Sobre</h1>
                
