@@ -19,7 +19,7 @@
                 <img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png" width="25" height="25" />
             </td>
             <td>
-                <h5 style="margin-top: 10;">React Native</h5>
+                <h5 style="margin-top: 10; color:red;">React Native</h5>
             </td>
         
   </tr>
