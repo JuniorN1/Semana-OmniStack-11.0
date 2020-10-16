@@ -1,28 +1,6 @@
 
 <html>
-<style type="text/css">
-*{padding: 0;margin: 0;}
-body{
-flex:1; 
-background: rgb(233, 233, 233);
-}
-#container{
-width: 100%;
-height: 100%;
-display: flex;
-justify-content: center;  
-}
-#container .information h1{
-margin-top: 50px;
-}
-#container .information .about {
-margin-top: 5px;
-justify-content: left;
-}
-#container .information .about h2 {
-justify-content: left;
-}
-</style>
+ <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <body>
 <main id="container">
 <div class="information">
