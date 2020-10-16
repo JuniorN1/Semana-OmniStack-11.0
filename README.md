@@ -11,7 +11,7 @@
 
 ### Modelo de Aplicação Utilizado
 
-##### -  SAP Single Page Aplication : O modelo de SAP que e ultilizado nesse e muitos projetos, trabalha em cima da navegação em pilha (Stake Navegation), de maneira que 
+##### -  SAP Single Page Aplication : O modelo de SAP que e ultilizado nesse e muitos projetos, trabalha em cima da navegação em pilha (Stake Navegation), de maneira que a aplicação fique de uma forma mais fluida.
 
 
 
