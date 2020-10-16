@@ -1,6 +1,6 @@
 
 <html>
-<style>
+<style type="text/css">
 *{padding: 0;margin: 0;}
 body{
 flex:1; 
