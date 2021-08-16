@@ -1,11 +1,9 @@
 import React,{useState} from 'react';
-import heroesImg from '../../assents/heroes.png';
 import logoImg from '../../assents/logo.svg';
 import {Link,useHistory} from 'react-router-dom';
 import { FiArrowLeft } from 'react-icons/fi';
 import api from '../../services/api';
 import './style.css';
-import Profile from '../Profile';
 export default function NewIncident(){
     const history = useHistory();
     const[titulo,setTitulo] =useState('');
