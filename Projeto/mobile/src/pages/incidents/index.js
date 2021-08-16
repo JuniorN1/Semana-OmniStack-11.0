@@ -18,6 +18,7 @@ export default function(){
 
     }
     async function loadIncidents(){
+  
         if(loading){
             return;
         }
@@ -28,6 +29,7 @@ export default function(){
         const response = await api.get('incidents',{params:{
             page
         }});
+        
         setIncidents([...incidents, ...response.data]);  
         setTotal(response.headers['x-total-count']);
         setPage(page+1);
@@ -36,6 +38,7 @@ export default function(){
     }
     useEffect(()=>{
         loadIncidents();
+
     },[]);
     return(
         <View style={styles.container}>
