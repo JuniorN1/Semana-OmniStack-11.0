@@ -9,6 +9,7 @@ module.exports ={
         .offset((page-1)*2)
         .select(['incidents.*','ongs.name','ongs.email','ongs.whatsapp','ongs.city','ongs.uf']);
     response.header('X-total-count',count['count(*)']);
+
         return response.json(incidents);
     },
    
